@@ -1,0 +1,30 @@
+_repo: A-Narrative-Of-The-Mutiny-On-Board-His-Majesty-s-Ship-Bounty--And-The-Subsequent-Voyage-Of-Pa__20337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bligh, William
+    birthdate: 1754
+    deathdate: 1817
+    gutenberg_agent_id: '6039'
+    url: http://www.gutenberg.org/2009/agents/6039
+    wikipedia: http://en.wikipedia.org/wiki/William_Bligh
+description: ''
+gutenberg_issued: '2007-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bounty (Ship)'
+- !lcsh 'Bounty Mutiny, 1789'
+- !lcsh 'Bligh, William, 1754-1817'
+- !lcc 'DU'
+title: A Narrative Of The Mutiny, On Board His Majesty's Ship Bounty; And The Subsequent
+  Voyage Of Part Of The Crew, In The Ship's Boat
+url: http://www.gutenberg.org/ebooks/20337
